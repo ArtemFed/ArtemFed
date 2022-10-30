@@ -19,28 +19,35 @@ Here are some ideas to get you started:
 # :milky_way: About me
 My name is Artem Fedorov. I'm a student at the National Research University Higher School of Economics, Faculty of Computer Science, majoring in Software Engineering.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemFed&layout=compact&hide=css,html,CMake)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemFed&layout=compact&hide=css,html,CMake&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ArtemFed)](https://github.com/ArtemFed)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemFed&show_icons=true&theme=radical)
 ## :mortar_board: Education
 
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 - **Bachelor's degree**<br />
-<sup>:date: *September 2021 – August* :globe_with_meridians: *Moscow, Russia* </sup><br />
+<sup>:date: *September 2021 – August 2025* :globe_with_meridians: *Moscow, Russia* </sup><br />
 Software Engeneering, FCS, HSE
 
 ## :computer: Skills
 
 ![CSharp](https://img.shields.io/badge/-CSharp-blueviolet?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ## :mag_right: Skills in progress
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+## :book: Minor skills
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 
 <!--
 ## :pushpin: Projects
@@ -53,3 +60,4 @@ Software Engeneering, FCS, HSE
 ## 🤝 Contacts
 
 - **Telegram:** [@Artem_Fed](https://t.me/Artem_Fed)
+- **Discrord:** [[☕]Artem[💖]#1003](https://discordapp.com/users/343370058774609920)
