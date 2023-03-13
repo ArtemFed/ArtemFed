@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # :milky_way: About me
 My name is Artem Fedorov. I'm a student at the National Research University Higher School of Economics, Faculty of Computer Science, majoring in Software Engineering.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemFed&langs_count=8&hide=jupyter%20notebook,cmake&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemFed&langs_count=8&,cmake&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemFed&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
