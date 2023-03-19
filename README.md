@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 
 # :milky_way: About me
-My name is Artem Fedorov. I'm a student at the National Research University Higher School of Economics, Faculty of Computer Science, majoring in Software Engineering.
+My name is Artem Fedorov. I'm a student at the National Research University Higher School of Economics, Faculty of Computer Science, majoring in Software Engineering. <br>
+
+[My Curriculum vitæ (CV)](https://disk.yandex.ru/d/sNW41pmlPdjl3Q)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemFed&langs_count=8&hide=assembly,jupyter%20notebook,cmake,rich%20text%20format&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemFed&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :mortar_board: Education
 
