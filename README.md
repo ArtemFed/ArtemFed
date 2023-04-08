@@ -22,7 +22,15 @@ My name is Artem Fedorov. I'm a student at the National Research University High
 [My Curriculum vitæ (CV)](https://disk.yandex.ru/d/sNW41pmlPdjl3Q)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemFed&langs_count=8&hide=assembly,jupyter%20notebook,cmake,rich%20text%20format&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemFed&langs_count=8&role=owner,collaborator&hide=assembly,jupyter%20notebook,cmake&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArtemFed&langs_count=6&hide=assembly,jupyter%20notebook&role=owner,collaborator&theme=radical" alt="ArtemFed's Language stats" />
+  
+<!-- </a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArtemFed&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000&hide_rank=true#gh-dark-mode-only" alt="ArtemFed's Github stats" />
+</a> -->
 
 ## :mortar_board: Education
 
